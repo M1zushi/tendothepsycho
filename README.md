@@ -1,4 +1,7 @@
 # tendothepsycho
-My third discord bot. Also useless.
-Currently still working on the bot.
-Mostly just casual entertainment commands that aren't even entertaining.
+Discord bot;
+ Mostly just for casual entertainment commands aren't even that entertaining.
+
+! S T A T U S !
++ Functionality: Partial 
++ Development: Intermittent
